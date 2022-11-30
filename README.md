@@ -1,3 +1,5 @@
+Check out [the sample](https://jumpjack.github.io/camera-2.5d/sample.html).
+
 # camera-2.5d
 An EaselJS/Canvas approach to 2.5d. Based on an old Flash experiment by [@gskinner](http://gskinner.com)
 
@@ -53,4 +55,4 @@ Instantiate a few different display classes, add them to the Camera, and update 
 	stage.update();
 ```
 
-Check out [the sample](sample.html).
+
